@@ -18,3 +18,9 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
